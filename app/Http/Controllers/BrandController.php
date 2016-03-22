@@ -23,4 +23,9 @@ class BrandController extends Controller
 
     }
 
+    public function test()
+    {
+
+    }
+
 }
